@@ -1,8 +1,8 @@
 # PYTHON.REVERSE
 BASIC PYTHON PROGRAM FOR DIPLOMA ENGINEER STUDENT
-# C Programming Basics
+# python Programming Basics
 
-This repository contains basic C programs for diploma computer engineering students.
+This repository contains basic python programs for diploma computer engineering students.
 
 ## Programs Included
 - Hello World
@@ -12,7 +12,7 @@ This repository contains basic C programs for diploma computer engineering stude
 - Reverse a number
 
 ## Language
-- C
+- PYTHON
 
 ## Author
 - Navnath Shinde
