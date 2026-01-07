@@ -10,6 +10,7 @@ This repository contains basic python programs for diploma computer engineering 
 - Even or Odd
 - Prime number
 - Reverse a number
+- pattern print
 
 ## Language
 - PYTHON
